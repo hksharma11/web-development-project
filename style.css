@@ -1,0 +1,72 @@
+body{
+	padding-top: 70px;
+}
+
+.horizontal-list{
+
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+   
+}
+
+.horizontal-list li{
+    display: inline-block;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.horizontal-list li a{
+    color:  white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#personalities{
+	background-color: lightgrey;
+
+}
+
+
+#personalities h3{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+	
+}
+
+#utilities h3{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+
+#utilities{
+	background-color: lightgrey;
+}
+
+#contactme{
+	background-color: lightgrey;
+}
+
+
+#contactme h3{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+
+#moviestitle{
+	background-color: lightgrey;
+}
+
+
+#moviestitle h3{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+
